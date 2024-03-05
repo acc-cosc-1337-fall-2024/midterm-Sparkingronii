@@ -37,7 +37,9 @@ while(num != 0)
     int i = 0, j = ans.size() - 1;
     while(i <= j)
     {
-      swap(ans[i], ans[j]);
+      int temp = i;
+      i = j;
+      j = temp;
       i++;
       j--;
     }
