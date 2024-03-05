@@ -1,6 +1,6 @@
 #include "question1.h"
 #include<iostream>
-#include<cmath>
+//#include<cmath>
 using std::cin; using std::cout;
 
 bool test_config()
@@ -26,6 +26,6 @@ int get_primes(int num)
         {
             cout<<i<<" ";
         }
-
+return num;
 }
 
