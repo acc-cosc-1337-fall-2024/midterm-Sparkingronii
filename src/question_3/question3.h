@@ -1,4 +1,5 @@
 #include<iostream>
+#include<string>
 using std::string;
 
 bool test_config();
