@@ -2,7 +2,7 @@
 #include<iostream>
 #include<string>
 using std::string;
-using std::swap;
+
 
 
 //
